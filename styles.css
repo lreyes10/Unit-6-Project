@@ -1,0 +1,24 @@
+h1 {text-align: center;}
+h1{
+    color:#ff00bf;
+    Background:Black;
+    font-family: 'Goldman', cursive;
+    border-style:dotted;}
+img{
+    Width:50%;
+    height:50%;
+    border: 5px solid #555;
+    animation-duration:5s;
+    animation-direction:alternate;
+}
+h3 {text-align: center;}
+h3{
+    color:black;
+    Background:yellow;
+    font-family: 'Big Shoulders Stencil Text', cursive;}
+li{
+background:#808080;
+border-style: inset;
+font-family:'Fondamento', cursive;}
+p{
+font-family:'Inter', sans-serif;}
